@@ -1,0 +1,10 @@
+pandas==2.2.0
+polars==0.20.6
+duckdb==0.10.0
+requests==2.31.0
+plotly==5.18.0
+streamlit==1.31.0
+pyarrow==14.0.2
+altair==5.2.0
+nbformat==5.9.2
+ipykernel==6.29.0
