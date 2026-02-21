@@ -6,8 +6,7 @@ An end-to-end data pipeline that ingests, transforms, and analyzes NYC Yellow Ta
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
-cd <repo-name>
+git clone https://github.com/MemeSamah/COMP3610_A1
 ```
 
 ### 2. Create a Virtual Environment
@@ -37,17 +36,7 @@ streamlit run app.py
 
 ## Deployed Dashboard
 
-**Live Dashboard URL:** https://your-app-name.streamlit.app
-
-## Project Structure
-
-```
-├── assignment1.ipynb   # Main analysis notebook (Parts 1–3)
-├── app.py              # Streamlit dashboard application
-├── requirements.txt    # Python dependencies
-├── README.md           # Project documentation
-└── .gitignore          # Excludes data/ and other generated files
-```
+**Live Dashboard URL:** https://comp3610a1.streamlit.app/
 
 ## Data Sources
 
